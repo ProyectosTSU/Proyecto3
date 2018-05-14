@@ -34,7 +34,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(528, 244);
+            this.button1.Location = new System.Drawing.Point(396, 194);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -46,9 +46,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(409, 110);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(200, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "ALAN";
+            this.label1.Text = "ALAN ESTUVO AQUI PERRROOOOOO";
             // 
             // Form1
             // 
